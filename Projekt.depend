@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1480770379 source:g:\users\filip\desktop\studia\pop\projekt 1\projekt\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<stdlib.h>
+	<fstream>
+	<cstring>
+
+1482354455 source:c:\users\filip\desktop\studia\pop\projekt 1\projekt\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
